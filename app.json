@@ -1,5 +1,13 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "name": "test-RN",
+    "icon": "./assets/icon.png",
+    "description": "Using RN",
+    "sdkVersion": "27.0.0",
+    "android": {
+      "package": "com.lainco.testrn",
+      "versionCode": 1,
+      "icon": "./assets/icon.png"
+    }
   }
 }
