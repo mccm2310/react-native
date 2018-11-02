@@ -2,4 +2,4 @@
 
  Breve uso del framework para aprender sobre su estructura y manejo.
  
-    Apk: https://expo.io/artifacts/91e58226-4822-406d-81a4-149a22db92eb
+    Apk: https://expo.io/artifacts/fcd37f04-9da0-40f9-850f-1c2b11c3215d
