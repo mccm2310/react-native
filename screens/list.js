@@ -444,7 +444,7 @@ export default class List extends React.Component {
                   
                   {state.actionSelected == 'view' ? this._viewModal() : state.actionSelected == 'edit' ?  this._editModal() : state.actionSelected == 'add' ?  this._createModal(): null}
                 </View>
-                {state.actionSelected != 'view' ? this._saveBtn(): null}
+                {state.actionSelected == 'edit' ? this._saveBtn(): null}
             </View>
         </Modal>
       </View>
